@@ -1,6 +1,7 @@
 - 👋 wie geht's?
 - :nerd_face: industrial engineer 
 - 📫 e-mail me rodriguesoluisa@gmail | linkedin @luisaorodrigues
+
 :de: | :us: | :brazil:
 
 
