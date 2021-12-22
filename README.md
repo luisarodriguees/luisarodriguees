@@ -1,5 +1,5 @@
 - 👋 wie geht's?
-- :woman_technologist: industrial engineer in the data world
+- :woman_technologist: industrial engineer in data world
 - 📫 contact me rodriguesoluisa@gmail | linkedin @luisaorodrigues
 - :muscle: crossfit enthusiast but also food lover 
 - :nerd_face: brazilian constantly learning   :de: | :us: | :es: 
