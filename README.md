@@ -1,6 +1,6 @@
 - 👋 wie geht's?
 - :woman_technologist: industrial engineer in the data world
-- 📫 e-mail me rodriguesoluisa@gmail | linkedin @luisaorodrigues
+- 📫 contact me rodriguesoluisa@gmail | linkedin @luisaorodrigues
 - :muscle: crossfit enthusiast but also food lover 
 - :nerd_face: constantly learning   :de: | :us: | :es: | :brazil:
 
