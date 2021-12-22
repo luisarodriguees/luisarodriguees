@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @luisarodriguees
-- 👀 I’m interested in DevOps and Cloud Computing
-- 📫 How to reach me: rodriguesoluisa@gmail e-mail me :)
+- 👋 wie geht's?
+- 👀 contact me on linkedin @luisaorodrigues
+- 📫 e-mail me rodriguesoluisa@gmail :)
 
 <!---
 luisarodriguees/luisarodriguees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
