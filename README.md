@@ -1,9 +1,8 @@
 - 👋 wie geht's?
 - :woman_technologist: industrial engineer in data world
-- 📫 contact me rodriguesoluisa@gmail | linkedin @luisaorodrigues
 - :muscle: crossfit enthusiast but also food lover 
 - :nerd_face: brazilian constantly learning   :de: | :us: | :es: 
-
+- 📫 contact me rodriguesoluisa@gmail | linkedin @luisaorodrigues
 
 Currently responsable for developing, deploying and data science solutions maintainance regarding information structuring using AWS for data manipulation and machine learning algorithms, aiming to ensure the availability of information with the expected quality and timeliness for the full flow of business. Also responsible for keeping up with cloud computing best practices, and for knowledge maintenance, through applications pipelines documents.
 
